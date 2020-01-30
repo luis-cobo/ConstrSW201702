@@ -1,17 +1,6 @@
 # Otros Programas
 Ahora hablemos de los otros programas a instalar para esta primera guía. 
 
-* __Scratch__ no es necesario instalarlo de manera local. Solamente deberán registrarse en el sitio web correspondiente de la herramienta.
-Hacer click en _Join Scracth_ en la página de [Scratch](https://scratch.mit.edu/). Procure usar el mismo usuario que creó para GitHub. Por
-favor, en el informe técnico correspondiente indique el nombre del usuario que utilzó.
-
-* __Alice 3__ se puede descargar del sitio web de la herramienta (https://www.alice.org/get-alice/alice-3/). Solo es escoger el sistema
-operativo de su preferencia e instalarlo en su computador local. Tenga en cuenta que esta plataforma es muy grande (más de 1 Giga de
-tamaño), así que puede tomar su tiempo su descarga.
-
-* __Greenfoot__ también se descarga del sitio web de la herramienta. El sitio es https://www.greenfoot.org/download y sólo deberá escoger
-el sistema operativo con el que trabaja y realizar la tarea de instalarlo luego de haberlo descargado.
-
 * __Java 1.8__ es necesario para trabajar bien en BlueJ. Esta herramienta de desarrollo se puede descargar del [sitio web de Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 Solo tiene que dar click en la opción "Accept License Agreement", escoger la versión de acuerdo al sistema operativo de su preferencia y
 luego instalarlo en su equipo. Si va a trabajar con Windows, se recomienda escoger la versión de 64 bits (jdk-8u141-windows-x64.exe). Aunque
